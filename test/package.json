@@ -1,0 +1,16 @@
+{
+    "name": "npie-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "./node_modules/ts-node/dist/bin.js -C typescript src/main.ts",
+        "watch": "nodemon -w src -x 'npm run start'"
+    },
+    "dependencies": {
+        "@types/sequelize": "^4.0.73",
+        "sequelize": "^4.8.4",
+        "ts-node": "^3.3.0",
+        "typescript": "^2.6.0-dev.20170912"
+    }
+}
