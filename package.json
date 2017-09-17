@@ -2,7 +2,7 @@
   "name": "npie",
   "version": "0.0.1",
   "description": "",
-  "main": "npie/index.js",
+  "main": "index.ts",
   "directories": {
     "test": "test"
   },
