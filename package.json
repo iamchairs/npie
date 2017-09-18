@@ -1,8 +1,9 @@
 {
   "name": "npie",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "directories": {
     "test": "test"
   },

@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+      "module": "none",
+      "moduleResolution": "node",
+      "experimentalDecorators": true,
+      "declaration": true,
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "outDir": "dist"
+  },
+  "files": [
+      "npie/index.ts"
+  ]
+}

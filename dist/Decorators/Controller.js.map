@@ -1,0 +1,1 @@
+{"version":3,"file":"Controller.js","sourceRoot":"","sources":["../../npie/Decorators/Controller.ts"],"names":[],"mappings":";;AAAA,4BAA0B;AAE1B,oBAA4B,IAAY;IACpC,MAAM,CAAC,UAAS,GAAQ;QACpB,OAAO,CAAC,cAAc,CAAC,WAAW,EAAE,YAAY,EAAE,GAAG,CAAC,CAAC;QACvD,OAAO,CAAC,cAAc,CAAC,WAAW,EAAE,IAAI,EAAE,GAAG,CAAC,CAAC;IACnD,CAAC,CAAA;AACL,CAAC;AALD,gCAKC"}
